@@ -1,5 +1,5 @@
-jquery.deck-toc.js
-==================
+decktoc
+=======
 
 > A jQuery library that lets [deck.js][] and [toc][] work nicely together.
 

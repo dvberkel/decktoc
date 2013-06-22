@@ -1,5 +1,5 @@
 {
-  "name": "jquery.deck-toc.js",
+  "name": "decktoc",
   "version": "0.0.0",
   "main": "jquery.deck-toc.js",
   "ignore": [
