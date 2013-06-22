@@ -1,0 +1,10 @@
+{
+  "name": "jquery.deck-toc.js",
+  "version": "0.0.0",
+  "main": "jquery.deck-toc.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
